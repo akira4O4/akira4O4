@@ -6,7 +6,7 @@
 ### <div align="center">I'm Linfeng Lee, a full-time AI developer 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Linfeng-Lee](https://github.com/Linfeng-Lee)  
+- 🔭 I’m currently working on China Guangzhou
   
 
 - 🌱 I’m currently learning Artificial Intelligence (AI)  

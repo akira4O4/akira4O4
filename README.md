@@ -2,31 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Linfeng Lee, a full-time AI developer 👨‍💻  🚀</div>  
 - 🔭 I’m currently working on China Guangzhou
 - 🌱 I’m currently learning Artificial Intelligence (AI)  
 - ❓ Ask me about anything related to AI and DL  
 </td></tr></table>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  ![Visitor Count](https://profile-counter.glitch.me/akira4O4/count.svg)
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=akira4O4&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
+<br/>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/akira4O4" target="_blank" style="display: inline-block;">

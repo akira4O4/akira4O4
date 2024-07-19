@@ -3,9 +3,9 @@
 </div>  
   
 ### <div align="center">I'm Linfeng Lee, a full-time AI developer 👨‍💻  🚀</div>  
-- 🔭 I’m currently working on China Guangzhou
-- 🌱 I’m currently learning Artificial Intelligence (AI)  
-- ❓ Ask me about anything related to AI and DL  
+- 🔭 Python
+- 🌱 C++
+- 🌱 AI 
 </td></tr></table>  
 
 <br/>  

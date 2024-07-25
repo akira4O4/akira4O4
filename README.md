@@ -3,9 +3,9 @@
 </div>  
   
 ### <div align="center">I'm Linfeng Lee, a full-time AI developer🚀</div>  
-- 🐍 Python
-- 😕 C++
-- 🤖 AI 
+- 🐍 Python && C++
+- 🤖 Artificial Intelligence
+- 🎮 Play Game && Game Design
 </td></tr></table>  
 
 <br/>  

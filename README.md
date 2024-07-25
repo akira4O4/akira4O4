@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-## <div align="center"> I'm Linfeng Lee, a full-time AI developer 🚀 </div>  
+## <div align="center"> Linfeng Lee, A Full-Time Developer 🚀 </div>  
 <div align="center"> 🐍 Python && C++ </div>  
 <div align="center"> 🤖 Artificial Intelligence </div>  
 <div align="center"> 🎮 Play Game && Game Design </div>  

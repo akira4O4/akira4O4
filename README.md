@@ -15,5 +15,5 @@
 <br/>
 
 ## <div align="center"> Github Stats </div>  
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
 <br/>

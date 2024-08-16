@@ -18,7 +18,5 @@
 
 ## <div align="center"> Github Stats </div>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark" align="center" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
 </div>  
 <br/>

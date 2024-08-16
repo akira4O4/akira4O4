@@ -11,9 +11,14 @@
 <br/>  
 
 ## <div align="center"> Github Stats </div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="center" />
+  
+</div>  
 <br/>
 
 ## <div align="center"> Github Stats </div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark" align="center" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
+</div>  
 <br/>

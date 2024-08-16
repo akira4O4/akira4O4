@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="center" />
 </div>  
 <br/>
-<!-- <div align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=donut-vertical&theme=vue-dark" align="center" />
 </div>  
-<br/> -->
+<br/>

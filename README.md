@@ -11,12 +11,9 @@
 <br/>  
 
 ## <div align="center"> Github Stats </div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akira4O4&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 
 ## <div align="center"> Github Stats </div>  
-
-
-[![akira4O4's github stats](https://github-readme-stats.vercel.app/api?username=akira4O4&count_private=true&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true)](https://github.com/akira4O4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira4O4&layout=compact&theme=vue-dark)
+<br/>

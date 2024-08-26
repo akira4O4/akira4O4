@@ -5,7 +5,7 @@
     <td>
       <div>
         
-| Language| Level |Domain|
+| Skill| Level |Domain|
 | :-----------| :-----------: |---|
 | `Python`| `Good`   |`PyTorch`   |
 | `C++ `|   `Good`    |`TensorRT` `NCNN` `QT`|

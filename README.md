@@ -6,7 +6,7 @@
       <div>
         
 | Skill| Level |Domain|
-| :-----------| :-----------: |---|
+| :-----------:| :-----------: |---|
 | `Python`| `Good`   |`PyTorch`   |
 | `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT` `STM32`|
 | `C#`| `Norm`   |`Unity` `Godot`|

@@ -8,7 +8,7 @@
 | Skill| Level |Domain|
 | :-----------| :-----------: |---|
 | `Python`| `Good`   |`PyTorch`   |
-| `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT`|
+| `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT` `STM32`|
 | `C#`| `Norm`   |`Unity` `Godot`|
 | `Java`  | `Norm`  | `Android`  |
 | `CUDA`  | `Bad`  | `NVIDIA GPU`  |

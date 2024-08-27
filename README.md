@@ -8,10 +8,10 @@
 | Skill| Level |Domain|
 | :-----------| :-----------: |---|
 | `Python`| `Good`   |`PyTorch`   |
-| `C++ `|   `Good`    |`TensorRT` `NCNN` `QT`|
+| `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT`|
 | `C#`| `Norm`   |`Unity` `Godot`|
-| `Java `  | `Norm`  | `Android`  |
-| `CUDA `  | `Bad`  | `NVIDIA GPU`  |
+| `Java`  | `Norm`  | `Android`  |
+| `CUDA`  | `Bad`  | `NVIDIA GPU`  |
  </div> 
     </td>
     <td>

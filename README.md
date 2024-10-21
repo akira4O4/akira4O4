@@ -7,10 +7,10 @@
         
 | Language  | State   | Tool     | State     | Framework           | State     |
 |-----------|:----------:|----------|:------------:|---------------------|:------------:|
-| C++       | ✔︎        | CMake    | ```TODO``` | PyTorch             | ✔︎         |
-| Python    | ✔︎        | Makefile | ```TODO``` | TensorRT            | ```TODO``` |
-| Shell     | ✔︎        | trtexec  | ```TODO``` | Ultralytics YOLO    | ```TODO``` |
-|           |          | GIT      | ✔︎         | ncnn                | ❌         |
+| C++       | ✔︎        | CMake    | ```Learning``` | PyTorch             | ✔︎         |
+| Python    | ✔︎        | Makefile | ```Learning``` | TensorRT            | ```Learning``` |
+| Shell     | ✔︎        | trtexec  | ```Learning``` | Ultralytics YOLO    | ```Learning``` |
+| CUDA      | ❌       | GIT      | ✔︎         | ncnn                | ❌         |
 |           |          | Tmux     | ✔︎         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          |          |            | gglm                | ❌         |

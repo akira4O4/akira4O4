@@ -14,7 +14,7 @@
 |           |          | Tmux     | ✔︎         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | PNNX     | ❌        | gglm                | ❌         |
-
+|           |          |      |         | HuggingFace                 | ❌         |
  </div> 
     </td>
     <td>

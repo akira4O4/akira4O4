@@ -13,7 +13,7 @@
 | CUDA      | ❌       | GIT      | ✔︎         | ncnn                | ❌         |
 |           |          | Tmux     | ✔︎         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
-|           |          |          |            | gglm                | ❌         |
+|           |          | PNNX     | ❌        | gglm                | ❌         |
 
  </div> 
     </td>

@@ -10,7 +10,7 @@
 | `Python`| `Good`   |`PyTorch`  `QT` |
 | `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT` `STM32` `ESP32`|
 | `C#`| `Norm`   |`Unity` `Godot`|
-| `Java`  | `Norm`  | `Android`  |
+| `Java`  | `Norm`  | `Minecraft`  |
 | `CUDA`  | `Bad`  | `NVIDIA GPU`  |
  </div> 
     </td>

@@ -10,7 +10,7 @@
 | C++       | ✔︎        | CMake    | ```Learning``` | PyTorch             | ✔︎         |
 | Python    | ✔︎        | Makefile | ```Learning``` | TensorRT            | ```Learning``` |
 | Shell     | ✔︎        | trtexec  | ```Learning``` | Ultralytics YOLO    | ```Learning``` |
-| CUDA      | ❌       | GIT      | ✔︎         | ncnn                | ❌         |
+| CUDA      | ```Learning```       | GIT      | ✔︎         | ncnn                | ❌         |
 |           |          | Tmux     | ✔︎         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | PNNX     | ❌        | gglm                | ❌         |

@@ -5,13 +5,16 @@
     <td>
       <div>
         
-| Skill| Level |Domain|
-| :-----------:| :-----------: |---|
-| `Python`| `Good`   |`PyTorch`  `QT` |
-| `C/C++ `|   `Good`    |`TensorRT` `NCNN` `QT` `STM32` `ESP32`|
-| `C#`| `Norm`   |`Unity` `Godot`|
-| `Java`  | `Norm`  | `Minecraft`  |
-| `CUDA`  | `Bad`  | `NVIDIA GPU`  |
+| Language  | State   | Tool     | State     | Framework           | State     |
+|-----------|:----------:|----------|:------------:|---------------------|:------------:|
+| C++       | ✔︎        | CMake    | ```TODO``` | PyTorch             | ✔︎         |
+| Python    | ✔︎        | Makefile | ```TODO``` | TensorRT            | ```TODO``` |
+| Shell     | ✔︎        | trtexec  | ```TODO``` | Ultralytics YOLO    | ```TODO``` |
+|           |          | GIT      | ✔︎         | ncnn                | ❌         |
+|           |          | Tmux     | ✔︎         | vLLM                | ❌         |
+|           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
+|           |          |          |            | gglm                | ❌         |
+
  </div> 
     </td>
     <td>

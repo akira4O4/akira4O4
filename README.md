@@ -13,7 +13,7 @@
 | CUDA      | ```Learning```       | GIT      | ✔︎         | ncnn                | ❌         |
 |           |          | Tmux     | ✔︎         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
-|           |          | PNNX     | ❌        | gglm                | ❌         |
+|           |          | PNNX     | ❌        | Triton Server                | ❌         |
 |           |          |      |         | HuggingFace                 | ❌         |
  </div> 
     </td>

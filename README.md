@@ -15,6 +15,8 @@
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | PNNX     | ❌        | Triton Server                | ❌         |
 |           |          | Nsight     | ❌        | HuggingFace                 | ❌         |
+|           |          | OpenAI Triton     | ❌        |  TVM                |  ❌         |
+
 
  </div> 
     </td>

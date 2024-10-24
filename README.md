@@ -11,7 +11,7 @@
 | Python    | ✔︎        | Makefile | ```Learning``` | TensorRT            | ```Learning``` |
 | Shell     | ✔︎        | trtexec  | ✔︎  | Ultralytics YOLO    | ```Learning``` |
 | CUDA      | ```Learning```       | GIT      | ✔︎         | NCNN                | ❌         |
-|           |          | Docker     | ```Learning```         | vLLM                | ❌         |
+| Lua          | ```Learning```         | Docker     | ```Learning```         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | PNNX     | ❌        | Triton Server                | ❌         |
 |           |          | Nsight     | ❌        | HuggingFace                 | ❌         |

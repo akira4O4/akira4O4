@@ -16,8 +16,7 @@
 |           |          | Protobuf     | ```Learning```        | Triton Server                | ❌         |
 |           |          | Nsight     | ❌        | HuggingFace                 | ❌         |
 |           |          | OpenAI Triton     | ❌        |  TVM                |  ❌         |
-
-
+|           |          |      |         |  gRPC                |  ```Learning```         |
  </div> 
     </td>
     <td>

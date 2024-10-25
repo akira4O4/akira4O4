@@ -13,7 +13,7 @@
 | CUDA      | ```Learning```       | GIT      | ✔︎         | NCNN                | ❌         |
 | Lua          | ```Learning```         | Docker     | ```Learning```         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
-|           |          | PNNX     | ❌        | Triton Server                | ❌         |
+|           |          | Protobuf     | ```Learning```        | Triton Server                | ❌         |
 |           |          | Nsight     | ❌        | HuggingFace                 | ❌         |
 |           |          | OpenAI Triton     | ❌        |  TVM                |  ❌         |
 

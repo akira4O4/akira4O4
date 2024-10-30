@@ -15,8 +15,7 @@
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | Protobuf     | ```Learning```        | Triton Server                | ❌         |
 |           |          | Nsight     | ❌        | HuggingFace                 | ❌         |
-|           |          | OpenAI Triton     | ❌        |  TVM                |  ❌         |
-|           |          |      |         |  gRPC                |  ```Learning```         |
+|           |          |      |         |  gRPC                |  ```Learning```            |
  </div> 
     </td>
     <td>

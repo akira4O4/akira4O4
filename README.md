@@ -8,7 +8,7 @@
 | Language  | State   | Tool     | State     | Framework           | State     |
 |-----------|:----------:|----------|:------------:|---------------------|:------------:|
 | C++       | ✔︎        | CMake    | ```Learning``` | PyTorch             | ✔︎         |
-| Python    | ✔︎        | Makefile | ```Learning``` | TensorRT            | ```Learning``` |
+| Python    | ✔︎        | Eigen | ```Learning``` | TensorRT            | ```Learning``` |
 | Shell     | ✔︎        | trtexec  | ✔︎  | Ultralytics YOLO    | ```Learning``` |
 | CUDA      | ```Learning```       | GIT      | ✔︎         | NCNN                | ❌         |
 | Lua          | ```Learning```         | Docker     | ```Learning```         | vLLM                | ❌         |

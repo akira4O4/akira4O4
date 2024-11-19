@@ -10,7 +10,7 @@
 | C++       | ✔︎        | CMake    | ```Learning``` | PyTorch             | ✔︎         |
 | Python    | ✔︎        | Eigen | ```Learning``` | TensorRT            | ```Learning``` |
 | Shell     | ✔︎        | trtexec  | ✔︎  | Ultralytics YOLO    | ```Learning``` |
-| CUDA      | ```Learning```       | GIT      | ✔︎         | NCNN                | ❌         |
+| CUDA      | ```Learning```       | Git      | ✔︎         | NCNN                | ❌         |
 | Lua          | ```Learning```         | Docker     | ```Learning```         | vLLM                | ❌         |
 |           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
 |           |          | Protobuf     | ```Learning```        | Triton Server                | ❌         |

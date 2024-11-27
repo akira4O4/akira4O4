@@ -5,17 +5,18 @@
     <td>
       <div>
         
-| Language  | State   | Tool     | State     | Framework           | State     |
-|-----------|:----------:|----------|:------------:|---------------------|:------------:|
-| C++       | ✔︎        | Eigen    | ```Learning``` | PyTorch             | ✔︎         |
-| Python    | ✔︎        | trtexec | ✔︎  | TensorRT            | ```Learning``` |
-| Shell     | ✔︎        | Protobuf  |```Learning```  | Ultralytics YOLO    | ```Learning``` |
-| CUDA      | ```Learning```       | Git      | ✔︎         | NCNN                | ❌         |
-| Lua       | ```Learning```         | Docker     | ```Learning```         | vLLM                | ❌         |
-|           |          | ONNX     | ✔︎         | llama.cpp           | ❌         |
-|           |          |   Nsight   | ❌         | Triton Server                | ❌         |
-|           |          |      |       | HuggingFace                 | ❌         |
-|           |          |      |         |  gRPC                |  ```Learning```            |
+| Language  | State       | Tool       | State       | Framework           | State       |
+|-----------|:-----------:|------------|:-----------:|---------------------|:-----------:|
+| C++       | ✔️          | Eigen      | ```Learning``` | PyTorch             | ✔️          |
+| Python    | ✔️          | trtexec    | ✔️          | TensorRT            | ```Learning``` |
+| Shell     | ✔️          | Protobuf   | ```Learning``` | Ultralytics YOLO    | ```Learning``` |
+| CUDA      | ```Learning``` | Git      | ✔️          | NCNN                | ❌          |
+| Lua       | ```Learning``` | Docker    | ```Learning``` | vLLM                | ❌          |
+|           |             | ONNX       | ✔️          | llama.cpp           | ❌          |
+|           |             | Nsight     | ❌          | Triton Server       | ❌          |
+|           |             |            |             | HuggingFace         | ❌          |
+|           |             |            |             | gRPC                | ```Learning``` |
+
  </div> 
     </td>
     <td>

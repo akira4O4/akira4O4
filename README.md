@@ -12,7 +12,7 @@
 | Shell     | ✔️          | Protobuf   | ```Learning``` | Ultralytics YOLO    | ```Learning``` |
 | CUDA      | ```Learning``` | Git      | ✔️          | NCNN                | ❌          |
 | Lua       | ```Learning``` | Docker    | ```Learning``` | vLLM                | ❌          |
-|           |             | ONNX       | ✔️          | llama.cpp           | ❌          |
+|  Rust         | ```Learning```            | ONNX       | ✔️          | llama.cpp           | ❌          |
 |           |             | Nsight     | ❌          | Triton Server       | ❌          |
 |           |             |            |             | HuggingFace         | ❌          |
 |           |             |            |             | gRPC                | ```Learning``` |

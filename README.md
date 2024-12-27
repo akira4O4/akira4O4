@@ -1,4 +1,4 @@
-## <div align="center">Li Linfeng Skill-Tree </div> 
+## <div align="center">Skill Table </div> 
 <div align="center">
 <table>
   <tr>

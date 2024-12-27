@@ -7,15 +7,15 @@
         
 | Language  | State       | Tool       | State       | Framework           | State       |
 |-----------|:-----------:|------------|:-----------:|---------------------|:-----------:|
-| C++       | ✔️          | Eigen      | ```Learning``` | PyTorch             | ✔️          |
-| Python    | ✔️          | trtexec    | ✔️          | TensorRT            | ```Learning``` |
-| Shell     | ✔️          | Protobuf   | ```Learning``` | Ultralytics YOLO    | ```Learning``` |
-| CUDA      | ```Learning``` | Git      | ✔️          | NCNN                | ❌          |
-| Lua       | ```Learning``` | Docker    | ```Learning``` | vLLM                | ❌          |
-|  Rust         | ```Learning```            | ONNX       | ✔️          | llama.cpp           | ❌          |
-|           |             | Nsight     | ❌          | Triton Server       | ❌          |
-|           |             |            |             | HuggingFace         | ❌          |
-|           |             |            |             | gRPC                | ```Learning``` |
+| C++       | ✔️            | Eigen      | ❌| PyTorch             | ✔️          |
+| Python    | ✔️            | MongoDB    | ```Learning```| TensorRT            | ```Learning``` |
+| Shell     | ✔️            | Protobuf   | ```Learning```| Ultralytics YOLO    | ```Learning``` |
+| CUDA      | ```Learning```   | Redis    | ✔️              | NCNN                | ❌          |
+| Lua       | ```Learning```   | Docker    | ```Learning```| vLLM                | ❌          |
+| Rust      | ```Learning```   | ONNX      | ✔️            | llama.cpp           | ❌          |
+|           |             |   Sqlite3      |  ✔️             | Triton Server       | ❌          |
+|           |             |                |               | HuggingFace         | ❌          |
+|           |             |                |               | gRPC                | ```Learning``` |
 
  </div> 
     </td>

@@ -11,9 +11,9 @@
 | Python    | ✔️            | MongoDB    | ```Learning```| TensorRT            | ✔️ |
 | Shell     | ✔️            |Redis    | ```Learning```    | Ultralytics YOLO    | ✔️ |
 | CUDA      | ```Learning```   |Protobuf     | ✔️          |gRPC                 |```Learning```           |
-| Lua       | ✔️   | Docker    | ```Learning```|  HuggingFace               |         |
-| Rust      | ```Learning```   | ONNX      | ✔️            | Triton Server                 |           |
-|       |    |       |             | imGUI                 |```Learning```           |
+| Lua       | ✔️             | Docker    | ```Learning```   |  HuggingFace               |         |
+| Rust      | ```Learning```   | ONNX        | ✔️            |  Love2D                 |```Learning```           |
+|           |                  |             |             | imGUI                 |```Learning```           |
 
 
  </div> 

@@ -13,7 +13,7 @@
 | CUDA      | ```Learning```   |Protobuf     | ✔️          |gRPC                 |```Learning```           |
 | Lua       | ✔️             | Docker    | ```Learning```   |  HuggingFace               |```Learning```          |
 | Rust      | ```Learning```   | ONNX        | ✔️            |  Love2D                 |```Learning```           |
-|           |                  |             |             | imGUI                 |```Learning```           |
+| Typescript| ```Learning```   |             |             | Tauri                 |```Learning```           |
 
 
  </div> 

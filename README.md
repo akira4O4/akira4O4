@@ -11,9 +11,8 @@
 | Python    | ✔️            | OpenMP    | ```Learning```| TensorRT            | ✔️ |
 | Shell     | ✔️            |MPI    | ```Learning```    | Ultralytics YOLO    | ✔️ |
 | CUDA      | ```Learning```   |Protobuf     | ✔️          |NCNN                 | ```Learning```         |
-| Lua       | ✔️             | Docker    | ```Learning```   |                 |          |
+| Lua       | ✔️             | Docker    | ✔️   |                 |          |
 | Rust      | ```Learning```   | ONNX        | ✔️            |                   |           |
-| Typescript| ```Learning```   |             | |                  |  |
 
 
  </div> 

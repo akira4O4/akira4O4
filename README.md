@@ -13,6 +13,7 @@
 | CUDA      | ```Learning```   |Protobuf     | ✔️          |NCNN                 | ```Learning```         |
 | Lua       | ✔️             | Docker    | ✔️   |                 |          |
 | Rust      | ```Learning```   | ONNX        | ✔️            |                   |           |
+|Asm        |```Learning```
 
 
  </div> 

@@ -7,13 +7,13 @@
         
 | Language  | State       | Tool       | State       | Framework           | State       |
 |-----------|:-----------:|------------|:-----------:|---------------------|:-----------:|
-| C++       | ✔️            | OpenACC      |```Learning```          | PyTorch             | ✔️          |
+| C/C++     | ✔️            | OpenACC      |```Learning```          | PyTorch             | ✔️          |
 | Python    | ✔️            | OpenMP    | ```Learning```| TensorRT            | ✔️ |
-| Shell     | ✔️            |MPI    | ```Learning```    | Ultralytics YOLO    | ✔️ |
+| C#        | ✔️            |MPI    | ```Learning```    | Ultralytics YOLO    | ✔️ |
 | CUDA      | ```Learning```   |Protobuf     | ✔️          |NCNN                 | ```Learning```         |
 | Lua       | ✔️             | Docker    | ✔️   |                 |          |
 | Rust      | ```Learning```   | ONNX        | ✔️            |                   |           |
-|Asm        |```Learning```
+| Asm       |```Learning```
 
 
  </div> 

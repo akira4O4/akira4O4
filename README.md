@@ -16,8 +16,8 @@
 | C#        | ✔️          | MPI        | `Learning`  | Ultralytics YOLO    | ✔️          |
 | CUDA      | `Learning`  | Protobuf   | ✔️          | NCNN                | `Learning`  |
 | Lua       | ✔️          | Docker     | ✔️          |                     |             |
-| Rust      | `Learning`  | ONNX       | ✔️          |                     |             |
-| Asm       | `Learning`  | Eigen      | `Learning`  |                     |             |
+| Rust      | `Learning`  | ONNX       | ✔️           |                     |             |
+| Asm       | `Learning`  | Eigen      | `Learning`   |                     |             |
 
 这样看起来更整洁。
 

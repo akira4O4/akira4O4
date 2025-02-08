@@ -11,8 +11,8 @@
 | Python    | ✔️          | OpenMP     | `Learning`  | TensorRT            | ✔️          |
 | C#        | ✔️          | MPI        | `Learning`  | Ultralytics YOLO    | ✔️          |
 | CUDA      | `Learning`  | Protobuf   | ✔️          | NCNN                | `Learning`  |
-| Lua       | ✔️          | Docker     | ✔️          |                     |             |
-| Rust      | `Learning`  | ONNX       | ✔️           |                     |             |
+| Lua       | ✔️          | Docker     | ✔️          |Godot                     |✔️             |
+| Rust      | `Learning`  | ONNX       | ✔️           |Love2D                     |✔️             |
 | Asm       | `Learning`  | Eigen      | `Learning`   |                     |             |
 
 

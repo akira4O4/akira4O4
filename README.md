@@ -12,7 +12,7 @@
 | C#        | ✔️          |Docker         |✔️   | Ultralytics YOLO    | ✔️          |
 | Lua       |✔️           |Eigen    |`Learning`           |Godot                    |✔️   |
 | CUDA      | `Learning`  |OpenMP      | `Learning`          |Love2D                |✔️          |
-| Rust      | `Learning`  |        |          |NCNN               |`Learning`          |
+| Rust      | `Learning`  |Ollama        |✔️          |NCNN               |`Learning`          |
 | Asm       | `Learning`  |       |    |                     |             |
 
 

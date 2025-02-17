@@ -7,13 +7,13 @@
 
 | Language  | State       | Tool       | State       | Framework           | State       |
 |-----------|:-----------:|------------|:-----------:|---------------------|:-----------:|
-| C/C++     | ✔️          | OpenACC    | `Learning`  | PyTorch             | ✔️          |
-| Python    | ✔️          | OpenMP     | `Learning`  | TensorRT            | ✔️          |
-| C#        | ✔️          | MPI        | `Learning`  | Ultralytics YOLO    | ✔️          |
-| CUDA      | `Learning`  | Protobuf   | ✔️          | NCNN                | `Learning`  |
-| Lua       | ✔️          | Docker     | ✔️          |Godot                     |✔️             |
-| Rust      | `Learning`  | ONNX       | ✔️           |Love2D                     |✔️             |
-| Asm       | `Learning`  | Eigen      | `Learning`   |                     |             |
+| C/C++     | ✔️          |Protobuf     |✔️  | PyTorch             | ✔️          |
+| Python    | ✔️          |ONNX      |✔️   | TensorRT            | ✔️          |
+| C#        | ✔️          |Docker         |✔️   | Ultralytics YOLO    | ✔️          |
+| Lua       |✔️           |Eigen    |`Learning`           |Godot                    |✔️   |
+| CUDA      | `Learning`  |OpenMP      | `Learning`          |Love2D                |✔️          |
+| Rust      | `Learning`  |        |          |NCNN               |`Learning`          |
+| Asm       | `Learning`  |       |    |                     |             |
 
 
 

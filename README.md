@@ -13,8 +13,8 @@
 | Lua       |✔️           |Eigen    |`Learning`           |Godot                    |✔️   |
 | CUDA      | `Learning`  |OpenMP      | `Learning`          |Love2D                |✔️          |
 | Rust      | `Learning`  |Ollama        |✔️          |NCNN               |`Learning`          |
-| Asm       | `Learning`  |       |    |                     |             |
-
+| Asm       | `Learning`  |       |    |vLLM                     |`Learning`             | 
+|        |  |       |    |  SGLang                   |`Learning`             | 
 
 
  </div> 

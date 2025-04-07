@@ -5,16 +5,16 @@
     <td>
       <div>
 
-| Language  | State       | Tool       | State       | Framework           | State       |
-|-----------|:-----------:|------------|:-----------:|---------------------|:-----------:|
-| C/C++     | ✔️          |Protobuf     |✔️  | PyTorch             | ✔️          |
-| Python    | ✔️          |ONNX      |✔️   | TensorRT            | ✔️          |
-| C#        | ✔️          |Docker         |✔️   | Ultralytics YOLO    | ✔️          |
-| Lua       |✔️           |Eigen    |`Learning`           |Godot                    |✔️   |
-| CUDA      | `Learning`  |OpenMP      | `Learning`          |Love2D                |✔️          |
-| Rust      | `Learning`  |Ollama        |✔️          |NCNN               |`Learning`          |
-| Asm       | `Learning`  |       |    |vLLM                     |`Learning`             | 
-|Fortran        | `Learning`  |       |    |  SGLang                   |`Learning`              | 
+| Language  | State      | Tool       | State      | Framework         | State      |
+|-----------|------------|------------|------------|-------------------|------------|
+| C/C++     | ✔️         | Protobuf   | ✔️         | PyTorch           | ✔️         |
+| Python    | ✔️         | ONNX       | ✔️         | TensorRT          | ✔️         |
+| C#        | ✔️         |MPI            | Learning         | Ultralytics YOLO  | ✔️         |
+| Lua       | ✔️         |OpenMP             |Learning    | Godot             | ✔️         |
+| CUDA      | Learning   |Eigen      |Learning    |NCNN             |Learning          |
+| Rust      | Learning   |      |          |SGLang               |Learning    |
+| Asm       | Learning   |            |            | vLLM              | Learning   |
+|           |            |            |            |             |    |
 
 
  </div> 

@@ -9,7 +9,7 @@
 |-----------|------------|------------|------------|-------------------|------------|
 | C/C++     | ✔️         | Protobuf   | ✔️         | PyTorch           | ✔️         |
 | Python    | ✔️         | ONNX       | ✔️         | TensorRT          | ✔️         |
-| C#        | ✔️         |MPI            | Learning         | Ultralytics YOLO  | ✔️         |
+| C#        | ✔️         |MPI            | Learning         | Ultralytics YOLO  | ✔️        |
 | Lua       | ✔️         |OpenMP             |Learning    | Godot             | ✔️         |
 | CUDA      | Learning   |Eigen      |Learning    |NCNN             |Learning          |
 | Rust      | Learning   |      |          |SGLang               |Learning    |

@@ -5,14 +5,14 @@
     <td>
       <div>
 
-| Language  | State      | Tool       | State      | Framework         | State      |
+| Language  | State      | Tools       | State      | Framework         | State      |
 |-----------|------------|------------|------------|-------------------|------------|
 | C/C++     | ✔️         | Protobuf   | ✔️         | PyTorch           | ✔️         |
 | Python    | ✔️         | ONNX       | ✔️         | TensorRT          | ✔️         |
-| C#        | ✔️         |MPI            | Learning         | Ultralytics YOLO  | ✔️        |
-| Lua       | ✔️         |OpenMP             |Learning    | Godot             | ✔️         |
-| CUDA      | Learning   |Eigen      |Learning    |NCNN             |Learning          |
-| Rust      | Learning   |      |          |SGLang               |Learning    |
+| C#        | ✔️         |MPI         | Learning   |  YOLO             | ✔️        |
+| Lua       | ✔️         |OpenMP      |Learning    | Godot             | ✔️         |
+| CUDA      | ✔️         |Eigen       |Learning       |NCNN             |Learning          |
+| Rust      | Learning   |             |          |SGLang               |Learning    |
 | Asm       | Learning   |            |            | vLLM              | Learning   |
 |           |            |            |            |             |    |
 

@@ -14,7 +14,7 @@
 | CUDA      | ✔️         |Eigen       |Learning       |NCNN             |Learning          |
 | Rust      | Learning   |             |          |SGLang               |Learning    |
 | Asm       | Learning   |            |            | vLLM              | Learning   |
-|           |            |            |            |             |    |
+|           |            |            |            |FastApi             |✔️    |
 
  </div> 
     </td>
